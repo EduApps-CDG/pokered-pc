@@ -46,3 +46,4 @@ Other disassembly projects:
 [irc]: https://web.libera.chat/?#pret
 [ci]: https://github.com/pret/pokered/actions
 [ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
+https://gbdev.io/pandocs/Memory_Map.html

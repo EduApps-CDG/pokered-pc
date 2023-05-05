@@ -1,2 +1,0 @@
-/home/eduardo/proj/pokered-pc/build/CMakeFiles/edit_cache.dir
-/home/eduardo/proj/pokered-pc/build/CMakeFiles/rebuild_cache.dir

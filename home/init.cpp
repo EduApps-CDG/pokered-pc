@@ -1,5 +1,6 @@
 #pragma once
 #include "init.h"
+#include "../port/gb_instructions.h"
 
 void SoftReset() {
 	StopAllSounds();
@@ -10,5 +11,5 @@ void SoftReset() {
 
 
 void Init() {
-	unsigned char rLCDC_DEFAULT = 0b11100011; // 227
+	di();
 }
